@@ -1,7 +1,6 @@
 ## Balloon Adventure
 
-Mobile Game currently in development
-![Image of TitleScreen](https://balloonadventuregames.github.io/Balloon-Adventure-Games-/Images/TitleScreen.PNG)
-
+Privacy Policy
+No game created by Balloon Adventure Games stores users data. 
 
 
